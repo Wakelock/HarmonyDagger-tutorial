@@ -12,5 +12,10 @@ python -m pip install harmonydagger
 harmonydagger
 ```
 ### Android
-(unfinished)
+Unfinished.
 1. Download Termux from F-Droid
+2. Grant Termux storage access and then open it
+3. Paste in:
+```
+pkg install python
+```
